@@ -1,0 +1,7 @@
+{
+  "apiKey":"the api key of your account",
+  "apiSecret":"the api secret of your account",
+  "groupId":"the group id of your application",
+  "appId":"the app id of your application",
+  "appFolder":"the name of your application folder"
+}
