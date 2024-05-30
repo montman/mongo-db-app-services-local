@@ -2,7 +2,7 @@
 
 ## Installation
 
-Run ```git clone``` in your github repository root. Make sure that your MongoDB App Services application source is inside a subfolder of your project repository.
+Run ```git clone https://github.com/montman/mongo-db-app-services-local .``` in your github repository root. Make sure that your MongoDB App Services application source is inside a subfolder of your project repository.
 
 Add `config.json` and `tokens.json` in `.gitignore`.
 
